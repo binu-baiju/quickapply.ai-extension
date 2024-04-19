@@ -1,1 +1,0 @@
-# quickapply.ai-extension
